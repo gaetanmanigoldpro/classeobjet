@@ -1,0 +1,6 @@
+c:\users\crm\source\repos\exercicepoint\exercicepoint\bin\Debug\exercicepoint.exe.config
+c:\users\crm\source\repos\exercicepoint\exercicepoint\bin\Debug\exercicepoint.exe
+c:\users\crm\source\repos\exercicepoint\exercicepoint\bin\Debug\exercicepoint.pdb
+c:\users\crm\source\repos\exercicepoint\exercicepoint\obj\Debug\exercicepoint.csproj.CoreCompileInputs.cache
+c:\users\crm\source\repos\exercicepoint\exercicepoint\obj\Debug\exercicepoint.exe
+c:\users\crm\source\repos\exercicepoint\exercicepoint\obj\Debug\exercicepoint.pdb

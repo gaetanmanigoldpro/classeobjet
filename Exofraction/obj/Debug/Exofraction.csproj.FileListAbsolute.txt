@@ -1,0 +1,7 @@
+C:\Users\CRM\source\repos\exercicepoint\Exofraction\obj\Debug\Exofraction.csprojAssemblyReference.cache
+C:\Users\CRM\source\repos\exercicepoint\Exofraction\obj\Debug\Exofraction.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\exercicepoint\Exofraction\bin\Debug\Exofraction.exe.config
+C:\Users\CRM\source\repos\exercicepoint\Exofraction\bin\Debug\Exofraction.exe
+C:\Users\CRM\source\repos\exercicepoint\Exofraction\bin\Debug\Exofraction.pdb
+C:\Users\CRM\source\repos\exercicepoint\Exofraction\obj\Debug\Exofraction.exe
+C:\Users\CRM\source\repos\exercicepoint\Exofraction\obj\Debug\Exofraction.pdb
